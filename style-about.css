@@ -1,0 +1,14 @@
+#main{
+    width: 100%;
+    border: solid;
+    height: auto;
+    justify-content: center;
+    position: absolute;
+    top: 100px;
+    align-items: center;
+    padding: 1rem;
+}
+
+h1{
+    font-size: 1.5rem;
+}

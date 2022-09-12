@@ -13,17 +13,8 @@ h1{
     font-size: 1.5rem;
 }
 
-#holo{
-    width: 50%;
+#team .team-member img.member-img{
+    height: 350px;
+    width: 300px;
     border-radius: 1rem;
-}
-
-#images{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-#images .obj-img{
-    width: 48vw;
 }
